@@ -30,7 +30,7 @@ WELCOME_GIF = [os.path.join(WELCOME_GIF_DIR, file) for file in os.listdir(WELCOM
 
 
 nameforbot = '@VoldemarShestirkin_bot'
-
+#
 
 API_TOKEN = '6295421173:AAEhrPkXjShPY1-7NGPd06tiPYn5n8QtgRU'
 bot = Bot(token=API_TOKEN)
