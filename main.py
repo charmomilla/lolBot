@@ -11,7 +11,7 @@ import os
 import aiocron
 from datetime import datetime, time
 
-
+#test PUUSSSH
 PICTURES_DIR = 'pictures'
 PICTURES = [os.path.join(PICTURES_DIR, file) for file in os.listdir(PICTURES_DIR) if file.endswith(('.jpg', '.jpeg', '.png'))]
 
